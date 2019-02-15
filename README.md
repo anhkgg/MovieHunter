@@ -1,6 +1,6 @@
 # 电影下载小工具
 
-某网站电影资源一键下载脚本。
+电影资源一键下载脚本。
 
 **鉴于不能传播盗版，已屏蔽网站地址，只留下代码**
 
@@ -41,9 +41,9 @@ pip install simplejson
 演示：
 
 ```
-PS D:\> .\main.exe 疯狂的外星人
-[+] Find film url:  https://xxxx.xw0371.com/2019/02/07/xxxx/playlist.m3u8
-[+] Start downloading  疯狂的外星人
+PS D:\> .\main.exe 哈哈哈
+[+] Find film url:  https://xxxx.xxx1.com/2019/02/07/xxxx/playlist.m3u8
+[+] Start downloading  哈哈哈
 [+] Start parse ts list...
 [+] Start parse ts list finish.  1332
 [+] Start download ts file...
