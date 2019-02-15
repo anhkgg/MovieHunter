@@ -42,7 +42,7 @@ pip install simplejson
 
 ```
 PS D:\> .\main.exe 疯狂的外星人
-[+] Find film url:  https://135zyv6.xw0371.com/2019/02/07/xxxx/playlist.m3u8
+[+] Find film url:  https://xxxx.xw0371.com/2019/02/07/xxxx/playlist.m3u8
 [+] Start downloading  疯狂的外星人
 [+] Start parse ts list...
 [+] Start parse ts list finish.  1332
